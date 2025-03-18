@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>E-Commerce</title>
+	<link rel="stylesheet" type="text/css" href=" E-Commerce.css">
+</head> 
+<body bgcolor="#00CCFF">
+	<h1>WELCOME TO FASHION MART</h1>
+	<table  align="center" width="1500px">
+	<tr bgcolor="#d2b48c">
+       <td class="td" align="right">
+    	<a href="Login Page.html" target="_blank">LOGIN</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    	<a href="Register Page.html" target="_blank">REGISTER</a>&nbsp;&nbsp;
+    </td>
+</tr>
+</table>
+<br>
+     <iframe  src="https://www.youtube.com/embed/hHqW0gtiMy4?si=fMQFwEnKxrOanhni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
