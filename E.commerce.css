@@ -1,0 +1,18 @@
+h1{
+	text-align:center;
+	background-color:#FF99FF;
+	height:100px;
+	width: 1500px;
+	align-content: center;
+    font-size:60px;
+    font-style:italic;
+
+}
+ .td{
+ 	height: 50px;
+ }
+ 
+ iframe{
+ 	width: 1500px;
+ 	height:500px;
+ }
